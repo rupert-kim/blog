@@ -3,4 +3,5 @@ layout: page
 title: About
 ---
 
-https://www.linkedin.com/in/rupert-kim/
+<a href="https://www.linkedin.com/in/rupert-kim/">
+https://www.linkedin.com/in/rupert-kim/</a>
